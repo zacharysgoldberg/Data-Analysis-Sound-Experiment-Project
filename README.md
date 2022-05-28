@@ -10,5 +10,5 @@ Must have python 3+
 Also, if using windows machine, must have microsoft visual studio C++ compiler SDK installed prior to installing dependencies.
 If using linux/unix environment continue with the installing packages from requiements.txt file.
 
-## To Test
+## Testing
 One dependencies installed, run file in a bash terminal 'python freq_sounds.py'
