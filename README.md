@@ -1,4 +1,4 @@
-# Sound-Experiment-Project
+# Sound-Experiment
 Auditory test that measures how large a frequency difference is needed for reliable discrimination. Simpleaudio, numpy, matplotlib, and pandas.
 Various modules in use inlcuding, numpy, matplotlib, and simpleaudio
 
