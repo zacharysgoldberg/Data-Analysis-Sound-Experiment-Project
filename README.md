@@ -1,6 +1,5 @@
 # Sound-Experiment
-Auditory test that measures how large a frequency difference is needed for reliable discrimination. Simpleaudio, numpy, matplotlib, and python 3.
-Various modules in use inlcuding, numpy, matplotlib, and simpleaudio
+Auditory test that measures how large a frequency difference is needed for reliable discrimination.
 
 ## Weber’s Law and Frequency Discrimination in Auditory Perception
 A change in a stimulus that will be just noticeable is a constant ratio of the original stimulus
