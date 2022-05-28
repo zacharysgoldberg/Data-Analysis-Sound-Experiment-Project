@@ -11,4 +11,4 @@ Also, if using windows machine, must have microsoft visual studio C++ compiler S
 If using linux/unix environment continue with the installing packages from requiements.txt file.
 
 ## Testing
-One dependencies installed, run file in a bash terminal 'python freq_sounds.py'
+Once dependencies installed, run file in a bash terminal 'python freq_sounds.py'
