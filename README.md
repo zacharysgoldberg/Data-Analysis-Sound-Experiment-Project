@@ -2,7 +2,7 @@
 Auditory test that measures how large a frequency difference is needed for reliable discrimination.
 
 ## Weber’s Law and Frequency Discrimination in Auditory Perception
-A change in a stimulus that will be just noticeable is a constant ratio of the original stimulus
+A change in a stimulus that will be just noticeable is a constant ratio of the original stimulus.
 
 ## Requirements
 Must have python 3+
